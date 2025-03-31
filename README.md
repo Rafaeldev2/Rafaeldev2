@@ -23,5 +23,5 @@ Faça uma breve apresentação sobre você e a sua stack.
 ---
 
 ## ⭐ GitHub Stats
-[![card](https://github-readme-stats.vercel.app/api?username=Rafaeldev2&theme=default&show_icons=true)](https://github.com/Rafaeldev2/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/Rafaeldev2/github-readme-stats)
 
